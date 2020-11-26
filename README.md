@@ -7,9 +7,9 @@
 This repository contains some [Colab](https://colab.research.google.com/)
 notebooks that I've played with.
 
-## Notebooks lists
+## Notebooks list
 
-- [Functional programming](./)
+- [Functional programming](notebooks/functional_programming.ipynb).
   A *playground notebook* with notes and examples taken while studying the book
   [Functional Programming in Python](https://www.oreilly.com/library/view/functional-programming-in/9781492048633/)
   by David Mertz.

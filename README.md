@@ -9,7 +9,7 @@ notebooks that I've played with.
 
 ## Notebooks list
 
-- [Functional programming](notebooks/functional_programming.ipynb).
+- [Functional programming](notebooks/Functional_programming.ipynb).
   A *playground notebook* with notes and examples taken while studying the book
   [Functional Programming in Python](https://www.oreilly.com/library/view/functional-programming-in/9781492048633/)
   by David Mertz.

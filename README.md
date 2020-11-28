@@ -6,6 +6,7 @@
 
 This repository contains some [Colab](https://colab.research.google.com/)
 notebooks that I've played with.
+Moreover, it includes some datasets to work with.
 
 ## Notebooks list
 
@@ -13,3 +14,11 @@ notebooks that I've played with.
   A *playground notebook* with notes and examples taken while studying the book
   [Functional Programming in Python](https://www.oreilly.com/library/view/functional-programming-in/9781492048633/)
   by David Mertz.
+- [Covid-19 Italy](notebooks/Covid_19_Italy.ipynb).
+  Some analysis of data taken from
+  [pcm-dpc/COVID-19](https://github.com/pcm-dpc/COVID-19).
+
+## Datasets
+
+- [Inhabitants in Italy on January 1st, 2020](datasets/Inhabitants_in_Italy_2020.csv).
+  Source: [ISTAT](http://dati.istat.it/).

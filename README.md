@@ -20,6 +20,5 @@ Moreover, it includes some datasets to work with.
 
 ## Datasets
 
-- [Inhabitants in Italy](datasets/Inhabitants_in_Italy_2020.csv).
-  Source:
-  [Popolazione residente al 1° gennaio](http://dati.istat.it/Index.aspx?DataSetCode=DCIS_POPRES1).
+- [Inhabitants in Italy on January 1st, 2020](datasets/Inhabitants_in_Italy_2020.csv).
+  Source: [ISTAT](http://dati.istat.it/).
